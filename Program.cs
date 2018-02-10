@@ -17,7 +17,7 @@ class Solution
 
         int top = 0;
         int middle = 0;
-        int bottom = 0;
+        int bottom = 0;   
         int maxSum = -100;
         int tempSum = -100;
 
